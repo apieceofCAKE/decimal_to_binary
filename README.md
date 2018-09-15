@@ -1,2 +1,2 @@
 # decimal_to_binary
-College programming class assignment
+Decimal to binary integer converter. College programming class assignment
