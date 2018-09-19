@@ -21,7 +21,7 @@ int main(){
     quotient = number;
 
     //This for loop fills our array with the remainders. It ends up storing the binary number inverted
-    for(aux = 0; quotient > 0; aux ++) {
+    for (aux = 0; quotient > 0; aux ++) {
 
         binary[aux] = quotient%2;
         quotient = quotient/2;
